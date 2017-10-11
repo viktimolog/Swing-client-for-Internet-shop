@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: Apache XML-RPC 1.0
+Connection: close
+Content-Type: text/xml
+Content-Length: 122
+
+<?xml version="1.0"?>
+<methodResponse>
+	<params>
+		<param><value><double>91.0</double></value></param>
+	</params>
+</methodResponse>
